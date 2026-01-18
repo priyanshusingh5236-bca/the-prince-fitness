@@ -21,7 +21,6 @@ This project is designed to showcase a fitness center website with a clean UI an
 
 ---
 
-## 📂 Project Structure
 ---
 
 ## ▶️ How to Run the Project
@@ -32,8 +31,6 @@ This project is designed to showcase a fitness center website with a clean UI an
 
 ---
 
-## 🌐 Live Demo
-_(Will be added using GitHub Pages)_
 
 ---
 
@@ -46,7 +43,7 @@ _(Will be added using GitHub Pages)_
 ---
 
 ## 👤 Author
-**Your Name**
+Priyanshu singh 
 
 ---
 
